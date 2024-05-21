@@ -1,0 +1,1 @@
+Shoot a ball from the side of the screen and land on a high point value. You get unlimited shots and can play forever until you miss (hit an X), when the game will end.

@@ -1,0 +1,4 @@
+This game is a redevelopment of the retro game "Angband". Named after
+the stronghold of Morgoth, the Sauron before Sauron in the Lord of the Rings,
+the game is a dungeon-crawler adventure game where the player is tasked with
+delving into Angband to confront Morgoth. 

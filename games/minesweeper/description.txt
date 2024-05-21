@@ -1,0 +1,2 @@
+To move, use the arrow keys. You may have to press an arrow key more than once to move. Please make sure the cursor is where you want it before selecting a space. To select a space,  press return. The game is over when all spots with mines are surrounded by numbers.
+

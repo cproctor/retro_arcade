@@ -1,0 +1,1 @@
+The classic Space Invaders game. Move your ship and fire at the incoming aliens.
